@@ -29,6 +29,13 @@
     font-size: 18px;
     color: black;
 }
+.name:hover {
+    text-shadow: 2px 2px 8px #ff4500; 
+    border: 2px dashed #32cd32;       
+    padding: 2px;                   
+    border-radius: 4px;               
+    transition: all 0.3s ease; 
+}
 
 /* Opera table */
 .opera-table {
